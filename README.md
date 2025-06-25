@@ -68,5 +68,6 @@ This project is open-sourced under the MIT License.
 
 ## 🙋‍♂️ Author
 Shilajit Mukherjee
-Data Science student at IIT Madras
+- Data Science student at IIT Madras
+
 For queries, feel free to reach out!
