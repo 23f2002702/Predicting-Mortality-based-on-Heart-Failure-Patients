@@ -55,9 +55,9 @@ Or manually:
 ---
 
 ## 📈 Key Findings
-. XGBoost and Random Forest yielded the highest ROC AUC scores.
-. SMOTE significantly improved the performance of Gaussian NB and AdaBoost.
-. LIME helped interpret misclassifications made by the ANN.
+- XGBoost and Random Forest yielded the highest ROC AUC scores.
+- SMOTE significantly improved the performance of Gaussian NB and AdaBoost.
+- LIME helped interpret misclassifications made by the ANN.
 
 ---
 
